@@ -43,3 +43,20 @@ Replace the existing `index.html`, `style.css`, `script.js`, and `README.md` fil
 - **CSS:** controls the website's appearance.
 - **JavaScript:** handles user actions and updates the displayed data.
 - **localStorage:** temporarily acts like a small database in the current browser.
+
+## Updated IT-2109 subject schedule
+
+The Subjects / Classes page contains the eight subjects from the supplied class timetable, including the instructor, meeting days, times and rooms. The attendance Subject selector and report filters now use the subject codes; the five students still belong to section BSIT-2109.
+
+| Code | Subject | Instructor | Schedule |
+|---|---|---|---|
+| AI 101 | Linear Algebra for AI | Ocampo, Ronalyn P. | Sat 1–4 PM |
+| CC 104 | Information Management | Gabuya, Jenny Mae A. | Thu 10 AM–12 PM and 1–4 PM |
+| GEd 107 | Ethics | Rabi, Aries N. | Wed 2–5 PM |
+| NET 101 | Fundamentals of Computer Networking | Pernia, Crissy M. | Wed 7–10 AM and 10 AM–12 PM |
+| OOP 101 | Object-Oriented Programming | Garcia, Donna M. | Fri 7–10 AM and 10 AM–12 PM |
+| PATHFit 3 | Choice of Dance, Sports, Martial Arts, Group Exercise, Outdoor, and Adventure Activities 1 | Real, Mark Ernest D. | Sat 5–7 PM |
+| PHYS 111 | General Physics 1 | Lucero, Aubrey May P. | Fri 1–4 PM and 4–6 PM |
+| PT 101 | Platform Technologies | Marquez, Jayson M. | Thu 7–10 AM and 4–6 PM |
+
+The project keeps the same browser storage key. When existing attendance data is found from the older one-subject version, its old section-based attendance entries are assigned to PT 101 so those saved statuses are not discarded. New sample records are created per scheduled subject meeting when the browser has no saved data.
