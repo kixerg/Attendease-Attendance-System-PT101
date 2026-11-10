@@ -14,6 +14,14 @@ A simple website for the PT101 Platform Technologies class, using HTML, CSS, and
 3. Open `index.html` using **Live Server**, or open it directly in your browser.
 4. Choose one of the original demo roles, or type an instructor username and password manually. The three original demo buttons still use password `demo123`.
 
+Software Stack Diagram
+<img width="1535" height="1024" alt="AttendEase Attendance System Diagram" src="https://github.com/user-attachments/assets/5cbadf02-9326-4bfd-8917-7f423e972986" />
+
+
+
+
+
+
 ## Features
 
 - Administrator, instructor, and student demo sign-in
