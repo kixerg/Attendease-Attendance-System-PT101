@@ -7,6 +7,9 @@ A simple website for the PT101 Platform Technologies class, using HTML, CSS, and
 - `style.css` - colors, layout, buttons, tables, responsive/mobile design
 - `script.js` - sample student data, attendance, buttons, reports, and browser storage
 
+## Software Stack Diagram
+<img width="1535" height="1024" alt="AttendEase Software Stack Diagram" src="https://github.com/user-attachments/assets/5cfcaa91-2afa-4a25-8115-d01bf87ccf19" />
+
 ## How to run
 
 1. Keep `index.html`, `style.css`, and `script.js` together in one folder.
