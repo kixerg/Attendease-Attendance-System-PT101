@@ -1,7 +1,6 @@
 # AttendEase - Student Attendance Management System
 
-A simple website for the PT101 Platform Technologies class, using HTML, CSS, and JavaScript. This code has been formatted and given comments to make it easier for a second-year BSIT student to read and explain. The original design, demo users, records, and features are retained.
-
+A simple website for the PT101 Platform Technologies class, using HTML, CSS, and JavaScript.
 ## Project files
 
 - `index.html` - login page, dashboard, forms, tables, and other website sections
